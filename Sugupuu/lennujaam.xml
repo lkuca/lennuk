@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lennujaam>
+  <lennujaamtable lennujaam_nimi="Iraan Municipal Airport">
+    <lennujaam_nimi>Iraan Municipal Airport</lennujaam_nimi>
+    <aeg>Asia/Chongqing</aeg>
+    <reis>
+      <summa>$867.58</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>IRB</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KUTJ</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Vilhelmina Airport">
+    <lennujaam_nimi>Vilhelmina Airport</lennujaam_nimi>
+    <aeg>Asia/Manila</aeg>
+    <reis>
+      <summa>$481.80</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>VHM</lennujaam_kood>
+    <lennujaam_riigi_kood>SE</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>ESNV</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Pune Airport">
+    <lennujaam_nimi>Pune Airport</lennujaam_nimi>
+    <aeg>America/Caracas</aeg>
+    <reis>
+      <summa>$365.20</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>PNQ</lennujaam_kood>
+    <lennujaam_riigi_kood>IN</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>VAPO</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Bunsil Airport">
+    <lennujaam_nimi>Bunsil Airport</lennujaam_nimi>
+    <aeg>Europe/Stockholm</aeg>
+    <reis>
+      <summa>$926.38</summa>
+    </reis>
+    <lennujaam_asukoht>OC</lennujaam_asukoht>
+    <lennujaam_kood>BXZ</lennujaam_kood>
+    <lennujaam_riigi_kood>PG</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>AYNS</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Purdue University Airport">
+    <lennujaam_nimi>Purdue University Airport</lennujaam_nimi>
+    <aeg>Asia/Tokyo</aeg>
+    <reis>
+      <summa>$998.69</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>LAF</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KLAF</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Chautauqua County-Dunkirk Airport">
+    <lennujaam_nimi>Chautauqua County-Dunkirk Airport</lennujaam_nimi>
+    <aeg>Asia/Makassar</aeg>
+    <reis>
+      <summa>$934.39</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>DKK</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KDKK</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Imroz Airport">
+    <lennujaam_nimi>Imroz Airport</lennujaam_nimi>
+    <aeg>America/Los_Angeles</aeg>
+    <reis>
+      <summa>$800.97</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>GKD</lennujaam_kood>
+    <lennujaam_riigi_kood>TR</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>LTFK</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Lubango Airport">
+    <lennujaam_nimi>Lubango Airport</lennujaam_nimi>
+    <aeg>Africa/Porto-Novo</aeg>
+    <reis>
+      <summa>$356.29</summa>
+    </reis>
+    <lennujaam_asukoht>AF</lennujaam_asukoht>
+    <lennujaam_kood>SDD</lennujaam_kood>
+    <lennujaam_riigi_kood>AO</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>FNUB</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="McMinn County Airport">
+    <lennujaam_nimi>McMinn County Airport</lennujaam_nimi>
+    <aeg>America/Guayaquil</aeg>
+    <reis>
+      <summa>$544.95</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>MMI</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KMMI</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Wanigela Airport">
+    <lennujaam_nimi>Wanigela Airport</lennujaam_nimi>
+    <aeg>Europe/Tallinn</aeg>
+    <reis>
+      <summa>$912.84</summa>
+    </reis>
+    <lennujaam_asukoht>OC</lennujaam_asukoht>
+    <lennujaam_kood>AGL</lennujaam_kood>
+    <lennujaam_riigi_kood>PG</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>AYWG</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Jimma Airport">
+    <lennujaam_nimi>Jimma Airport</lennujaam_nimi>
+    <aeg>Asia/Harbin</aeg>
+    <reis>
+      <summa>$939.19</summa>
+    </reis>
+    <lennujaam_asukoht>AF</lennujaam_asukoht>
+    <lennujaam_kood>JIM</lennujaam_kood>
+    <lennujaam_riigi_kood>ET</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>HAJM</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Sliac Airport">
+    <lennujaam_nimi>Sliac Airport</lennujaam_nimi>
+    <aeg>Asia/Tehran</aeg>
+    <reis>
+      <summa>$743.01</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>SLD</lennujaam_kood>
+    <lennujaam_riigi_kood>SK</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>LZSL</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Erbil International Airport">
+    <lennujaam_nimi>Erbil International Airport</lennujaam_nimi>
+    <aeg>America/Asuncion</aeg>
+    <reis>
+      <summa>$970.97</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>EBL</lennujaam_kood>
+    <lennujaam_riigi_kood>IQ</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>ORER</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Hongyuan Airport">
+    <lennujaam_nimi>Hongyuan Airport</lennujaam_nimi>
+    <aeg>Asia/Jakarta</aeg>
+    <reis>
+      <summa>$643.13</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>AHJ</lennujaam_kood>
+    <lennujaam_riigi_kood>CN</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>ZUHY</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Lightning Ridge Airport">
+    <lennujaam_nimi>Lightning Ridge Airport</lennujaam_nimi>
+    <aeg>Asia/Makassar</aeg>
+    <reis>
+      <summa>$432.71</summa>
+    </reis>
+    <lennujaam_asukoht>OC</lennujaam_asukoht>
+    <lennujaam_kood>LHG</lennujaam_kood>
+    <lennujaam_riigi_kood>AU</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>YLRD</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Bancasi Airport">
+    <lennujaam_nimi>Bancasi Airport</lennujaam_nimi>
+    <aeg>Asia/Yekaterinburg</aeg>
+    <reis>
+      <summa>$726.85</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>BXU</lennujaam_kood>
+    <lennujaam_riigi_kood>PH</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>RPME</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="King Salman Abdulaziz Airport">
+    <lennujaam_nimi>King Salman Abdulaziz Airport</lennujaam_nimi>
+    <aeg>Asia/Karachi</aeg>
+    <reis>
+      <summa>$971.57</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>DWD</lennujaam_kood>
+    <lennujaam_riigi_kood>SA</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>OEDM</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Sabi Sabi Airport">
+    <lennujaam_nimi>Sabi Sabi Airport</lennujaam_nimi>
+    <aeg>Asia/Ho_Chi_Minh</aeg>
+    <reis>
+      <summa>$626.15</summa>
+    </reis>
+    <lennujaam_asukoht>AF</lennujaam_asukoht>
+    <lennujaam_kood>GSS</lennujaam_kood>
+    <lennujaam_riigi_kood>ZA</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>FASE</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="First Flight Airport">
+    <lennujaam_nimi>First Flight Airport</lennujaam_nimi>
+    <aeg>Europe/Warsaw</aeg>
+    <reis>
+      <summa>$855.85</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>FFA</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KFFA</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="W K Kellogg Airport">
+    <lennujaam_nimi>W K Kellogg Airport</lennujaam_nimi>
+    <aeg>Asia/Harbin</aeg>
+    <reis>
+      <summa>$621.94</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>BTL</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KBTL</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Rawlins Municipal Airport/Harvey Field">
+    <lennujaam_nimi>Rawlins Municipal Airport/Harvey Field</lennujaam_nimi>
+    <aeg>Asia/Makassar</aeg>
+    <reis>
+      <summa>$824.77</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>RWL</lennujaam_kood>
+    <lennujaam_riigi_kood>US</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KRWL</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="El Nouzha Airport">
+    <lennujaam_nimi>El Nouzha Airport</lennujaam_nimi>
+    <aeg>Asia/Thimphu</aeg>
+    <reis>
+      <summa>$598.34</summa>
+    </reis>
+    <lennujaam_asukoht>AF</lennujaam_asukoht>
+    <lennujaam_kood>ALY</lennujaam_kood>
+    <lennujaam_riigi_kood>EG</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>HEAX</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Dalnerechensk Airport">
+    <lennujaam_nimi>Dalnerechensk Airport</lennujaam_nimi>
+    <aeg>Europe/Volgograd</aeg>
+    <reis>
+      <summa>$750.01</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>DLR</lennujaam_kood>
+    <lennujaam_riigi_kood>RU</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>UHHD</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Gostomel Airport">
+    <lennujaam_nimi>Gostomel Airport</lennujaam_nimi>
+    <aeg>Asia/Jakarta</aeg>
+    <reis>
+      <summa>$339.50</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>GML</lennujaam_kood>
+    <lennujaam_riigi_kood>UA</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>UKKM</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Alto Molocue Airport">
+    <lennujaam_nimi>Alto Molocue Airport</lennujaam_nimi>
+    <aeg>Asia/Ulaanbaatar</aeg>
+    <reis>
+      <summa>$949.73</summa>
+    </reis>
+    <lennujaam_asukoht>AF</lennujaam_asukoht>
+    <lennujaam_kood>AME</lennujaam_kood>
+    <lennujaam_riigi_kood>MZ</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>KITK</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Okha Airport">
+    <lennujaam_nimi>Okha Airport</lennujaam_nimi>
+    <aeg>America/Fortaleza</aeg>
+    <reis>
+      <summa>$901.96</summa>
+    </reis>
+    <lennujaam_asukoht>AS</lennujaam_asukoht>
+    <lennujaam_kood>OHH</lennujaam_kood>
+    <lennujaam_riigi_kood>RU</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>UHSH</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Platov International Airport">
+    <lennujaam_nimi>Platov International Airport</lennujaam_nimi>
+    <aeg>Asia/Jakarta</aeg>
+    <reis>
+      <summa>$872.88</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>ROV</lennujaam_kood>
+    <lennujaam_riigi_kood>RU</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>URRP</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Nalchik Airport">
+    <lennujaam_nimi>Nalchik Airport</lennujaam_nimi>
+    <aeg>Asia/Shanghai</aeg>
+    <reis>
+      <summa>$447.32</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>NAL</lennujaam_kood>
+    <lennujaam_riigi_kood>RU</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>URMN</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Mary River Aerodrome">
+    <lennujaam_nimi>Mary River Aerodrome</lennujaam_nimi>
+    <aeg>America/Havana</aeg>
+    <reis>
+      <summa>$892.59</summa>
+    </reis>
+    <lennujaam_asukoht>NA</lennujaam_asukoht>
+    <lennujaam_kood>YMV</lennujaam_kood>
+    <lennujaam_riigi_kood>CA</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>TUTJ</lennujaam_GPS_kood>
+  </lennujaamtable>
+  <lennujaamtable lennujaam_nimi="Kithira Airport">
+    <lennujaam_nimi>Kithira Airport</lennujaam_nimi>
+    <aeg>Asia/Chongqing</aeg>
+    <reis>
+      <summa>$874.42</summa>
+    </reis>
+    <lennujaam_asukoht>EU</lennujaam_asukoht>
+    <lennujaam_kood>KIT</lennujaam_kood>
+    <lennujaam_riigi_kood>GR</lennujaam_riigi_kood>
+    <lennujaam_GPS_kood>LGKC</lennujaam_GPS_kood>
+  </lennujaamtable>
+</lennujaam>
